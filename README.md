@@ -4,7 +4,7 @@
 
 ---
 
-> DATALIFE é um servidor extreno de GTA V (Grand Theft Auto 5) de RPG (role-playing game) que está sendo desenvolvido na plataforma [RAGEMP](https://rage.mp/).
+> DATALIFE é um servidor externo de GTA V (Grand Theft Auto 5) de RPG (role-playing game) que está sendo desenvolvido na plataforma [RAGEMP](https://rage.mp/).
 
 > Serão postadas atualizações sobre o desenvolvimento do servidor neste repositório. 
 
